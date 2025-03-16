@@ -4,11 +4,11 @@ Performing data analysis on the data set of lpg prices in India
 The goal of this project is to visualize the lpg prices in India for both domestic and commercial
 ### Data source
 The dataset for this project is taken from
-https://www.data.gov.in/
+https://www.data.gov.in/ , 
 https://www.data.gov.in/resource/year-wise-details-retail-selling-prices-rsp-domestic-142-kg-and-commercial-19-kg-liquefied
 #### Tools and Libraries
-Programming languages : Python 
-Data collection : Pandas
+Programming languages : Python , 
+Data collection : Pandas , 
 Data visualization : Matplotlib
 
 The project involves 
