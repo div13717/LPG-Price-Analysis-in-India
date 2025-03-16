@@ -9,7 +9,8 @@ https://www.data.gov.in/resource/year-wise-details-retail-selling-prices-rsp-dom
 #### Tools and Libraries
 Programming languages : Python , 
 Data collection : Pandas , 
-Data visualization : Matplotlib
+Data visualization : Matplotlib , 
+Environment : Jupyter Notebook
 
 The project involves 
 
