@@ -12,20 +12,20 @@ Data collection : Pandas ,
 Data visualization : Matplotlib , 
 Environment : Jupyter Notebook
 
-#####The project involves 
+The project involves 
 
 1.Collecting data from the website 
 2.Importing data in jupyter notebook using pandas
 3.Visulazation of the data set by plotting line graph using matplotlib
 4.Performing basic statistics 
 
-######About the data set
+About the data set
 The dataset has three columns
 *Year : Has values of prices for every april 1 form 2018 to 2023
 *RSP of Domestic LPG (Rs./14.2Kg Cylinder) 
 *RSP of Commercial LPG (Rs./19Kg Cylinder)
 
-#######Observations
+Observations
 * Commercial LPG has consistently been more expensive than domestic LPG
 * The price for Commercial has highest spike in year 2022 with price RS 2253
 * For Domestic the price has been raising constantly
