@@ -31,5 +31,5 @@ Observations
 * For Domestic the price has been raising constantly
 * Min and max price for domestic are RS 653 in 2018 and 1103 in 2023
 * Min and max price for commercial are RS 1176 in 2018 and 2253 in 2022
-* The patten of price seems to decrease for a year and then increase for two years 
+  
   
